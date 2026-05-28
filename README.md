@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="banner.gif" width="100%" height="300"/>
+  <img src="./banner1.gif" width="100%" height="300"/>
 </p>
 
 
